@@ -3,3 +3,22 @@
 // Turn on freq used libraries
 // @import 'normalize-css/normalize';
 // @import 'font-awesome/scss/font-awesome';
+
+html {
+	box-sizing: border-box;
+	background: #132634;
+	font-family: 'helvetica';
+	font-size: 20px;
+	font-weight: 200;
+
+}
+
+input {
+     width: 100%;
+     padding:20px;
+    }
+
+    .search-form {
+      max-width:400px;
+      margin:50px auto;
+    }
